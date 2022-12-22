@@ -1,4 +1,4 @@
-### Hey, im Tom, A 16y/o self taught dev from Melbourne :)
+### Hey, im Tom, A 17y/o self taught dev from Melbourne :)
 
 
 - 🌱 I’m currently learning Web Dev
