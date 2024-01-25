@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Tom, I'm a 18y.o, self taught developer from Melbourne, Australia</p>
+<p align="left">My name is Tom, I'm a 18y/o, self taught developer from Melbourne, Australia</p>
 
 ###
 
