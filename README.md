@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tom, I'm a 18y/o, self taught developer from Melbourne, Australia</p>
+<p align="left">My name is Tom, I'm a 19y/o, self taught developer from Melbourne, Australia</p>
 
 ###
 
